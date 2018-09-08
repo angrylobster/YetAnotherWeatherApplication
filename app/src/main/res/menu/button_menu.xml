@@ -5,7 +5,7 @@
     tools:context=".MainActivity" >
 
     <item
-        android:id="@+id/addlocation"
+        android:id="@+id/add_location"
         android:icon="@drawable/button_add32x32"
         android:orderInCategory="300"
         android:title="@string/add_string"
